@@ -1,7 +1,12 @@
 C:\Users\bogda\IdeaProjects\myProject\src\main\java\common\CommonActions.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_home\MaudauHomePage.java
 C:\Users\bogda\IdeaProjects\myProject\src\main\java\constants\Constant.java
 C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\base\BasePage.java
-C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\olx_home\OlxHomePage.java
-C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\listing\OlxListingPage.java
-C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\olx_login\OlxLoginPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\listing\MaudauListingPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_my_cabinet\ViewedPurchasesPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_login\MaudauLoginPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_my_cabinet\MyPurchasesPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_my_cabinet\MyReviewsPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_my_cabinet\MyAccountPage.java
+C:\Users\bogda\IdeaProjects\myProject\src\main\java\pages\maudau_my_cabinet\SecurityPage.java
 C:\Users\bogda\IdeaProjects\myProject\src\main\java\common\Config.java

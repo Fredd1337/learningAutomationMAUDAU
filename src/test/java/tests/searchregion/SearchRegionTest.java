@@ -3,18 +3,18 @@ package tests.searchregion;
 import org.testng.annotations.Test;
 import tests.base.BaseTest;
 
-import static constants.Constant.Urls.OLX_HOME_PAGE;
+import static constants.Constant.Urls.MAUDAU_HOME_PAGE;
 
 public class SearchRegionTest extends BaseTest {
 
     @Test
     public void checkIsRedirectToListing (){
-        basePage.open(OLX_HOME_PAGE);
+        basePage.open(MAUDAU_HOME_PAGE);
 
-        olxHomePage
+        maudauHomePage
                 .selectRegion()
                 .clickToSearch();
 
-        olxListingPage.checkCountCards();
+        maudauListingPage.checkCountCards();
     }
 }

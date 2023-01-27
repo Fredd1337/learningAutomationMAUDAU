@@ -15,5 +15,5 @@ public class Config {
      * To keep the browser open after suite
      * if true - browser close
      */
-    public static final Boolean HOLD_BROWSER_OPEN = false;
+    public static final Boolean HOLD_BROWSER_OPEN = true;
 }

@@ -1,9 +1,14 @@
-pages\olx_login\OlxLoginPage.class
-pages\olx_home\OlxHomePage.class
+pages\maudau_login\MaudauLoginPage.class
+pages\maudau_my_cabinet\SecurityPage.class
+pages\maudau_home\MaudauHomePage.class
 pages\base\BasePage.class
 common\Config.class
+pages\maudau_my_cabinet\MyPurchasesPage.class
 constants\Constant$Urls.class
 constants\Constant.class
+pages\listing\MaudauListingPage.class
+pages\maudau_my_cabinet\ViewedPurchasesPage.class
 common\CommonActions.class
-pages\listing\OlxListingPage.class
+pages\maudau_my_cabinet\MyReviewsPage.class
 constants\Constant$TimeoutVariable.class
+pages\maudau_my_cabinet\MyAccountPage.class

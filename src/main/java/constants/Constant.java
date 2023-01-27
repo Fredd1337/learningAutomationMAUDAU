@@ -6,6 +6,6 @@ public class Constant {
         public static final int EXPLICIT_WAIT = 10;
     }
     public static class Urls {
-        public static final String OLX_HOME_PAGE = "https://www.olx.ua/uk/";
+        public static final String MAUDAU_HOME_PAGE = "https://maudau.com.ua/";
     }
 }

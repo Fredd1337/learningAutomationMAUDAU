@@ -1,3 +1,4 @@
 tests\base\BaseTest.class
 tests\searchregion\SearchRegionTest.class
+tests\myAccount\MyAccountViewEditValidationTest.class
 tests\loginValidation\LoginValidationTest.class
